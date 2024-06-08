@@ -1,5 +1,3 @@
-a
-à
 Aarão
 aba
 abacate
@@ -2981,7 +2979,6 @@ abusos
 abusou
 abutre
 abutres
-AC
 Acab
 acaba
 acabá
@@ -13258,9 +13255,6 @@ agulho
 agulhou
 aguo
 aguou
-ah
-ai
-aí
 aia
 aias
 aidético
@@ -21488,8 +21482,6 @@ anuviado
 anuviados
 anzóis
 anzol
-ao
-ão
 aonde
 aorta
 aortas
@@ -25756,7 +25748,6 @@ aquosa
 aquosas
 aquoso
 aquosos
-ar
 ara
 ará
 árabe
@@ -29888,8 +29879,6 @@ arvores
 árvores
 arvoro
 arvorou
-as
-às
 asa
 asas
 ascenda
@@ -40071,7 +40060,6 @@ bazófia
 bazófias
 bazuca
 bazucas
-BC
 beata
 beataria
 beatarias
@@ -44837,7 +44825,6 @@ buzino
 buzinou
 búzio
 búzios
-cá
 caatinga
 caatingas
 caatingueira
@@ -70906,7 +70893,6 @@ cruzinha
 cruzinhas
 cruzo
 cruzou
-cu
 cuba
 Cuba
 cubana
@@ -72039,9 +72025,6 @@ czarismo
 czarismos
 czarista
 czaristas
-d
-da
-dá
 Dácia
 dactilógrafa
 dactilógrafas
@@ -72520,8 +72503,6 @@ davas
 dáveis
 Davi
 David
-de
-dê
 debaixo
 debalde
 debanda
@@ -99390,8 +99371,6 @@ dizimo
 dízimo
 dízimos
 dizimou
-do
-dó
 doa
 doá
 doação
@@ -101295,8 +101274,6 @@ duzentas
 duzentos
 dúzia
 dúzias
-e
-é
 ébano
 ébrio
 ébrios
@@ -103029,7 +103006,6 @@ elucides
 elucido
 elucidou
 Elvira
-em
 ema
 Ema
 emagreça
@@ -119753,7 +119729,6 @@ ervas
 ervilha
 ervilhas
 Erzegóvina
-és
 Esaú
 esbafori
 esbaforia
@@ -130713,7 +130688,6 @@ etologia
 Etrúria
 etrusco
 etruscos
-eu
 EUA
 eucalipto
 eucaliptos
@@ -131332,7 +131306,6 @@ evoquemo
 evoquemos
 evoques
 Évora
-ex
 exacerba
 exacerbá
 exacerbação
@@ -135629,7 +135602,6 @@ exumo
 exumou
 Ezequiel
 Ezra
-fã
 Fábio
 fabrica
 fabricá
@@ -137547,7 +137519,6 @@ faziam
 fazíamos
 fazias
 fazíeis
-fé
 fealdade
 febre
 febres
@@ -149478,7 +149449,6 @@ gustativas
 gustativo
 gustativos
 gutierrez
-há
 habeas
 hábeis
 hábil
@@ -151712,7 +151682,6 @@ Hungria
 huno
 hunos
 hurra
-ia
 iam
 íamos
 ianque
@@ -152207,7 +152176,6 @@ iguana
 iguanas
 iguaria
 iguarias
-ih
 iídiche
 iídiches
 ilegais
@@ -152499,7 +152467,6 @@ ilustríssimo
 ilustríssimos
 ilustro
 ilustrou
-IM
 ímã
 imaculada
 imaculadas
@@ -163871,7 +163838,6 @@ ionosfera
 ionosferas
 Iorque
 iota
-ir
 ira
 irá
 Irã
@@ -164634,7 +164600,6 @@ iugoslávia
 Iugoslávia
 iugoslavo
 iugoslavos
-já
 jabuti
 jabuticaba
 jabuticabas
@@ -165677,9 +165642,6 @@ kepleriano
 keplerianos
 Kioto
 Klein
-la
-lá
-lã
 labareda
 labaredas
 lábaro
@@ -167342,7 +167304,6 @@ lazarentos
 lázaro
 lázaros
 lazer
-lê
 leais
 leal
 lealdade
@@ -168250,7 +168211,6 @@ lhe
 lhes
 lho
 lhos
-li
 lia
 liam
 liame
@@ -169712,7 +169672,6 @@ lixemos
 lixes
 lixo
 lixou
-lo
 loba
 lobão
 lobas
@@ -170672,8 +170631,6 @@ luziste
 luzistes
 luziu
 luzo
-ma
-má
 maca
 maça
 maçã
@@ -174508,7 +174465,6 @@ maxixes
 mazela
 mazelas
 MDC
-me
 meada
 meadas
 meados
@@ -177655,7 +177611,6 @@ mnemônica
 mnemônicas
 mnemônico
 mnemônicos
-mo
 moa
 moais
 moam
@@ -180490,7 +180445,6 @@ mutuários
 mútuas
 mútuo
 mútuos
-na
 nababo
 nababos
 nabla
@@ -181982,8 +181936,6 @@ nivelemos
 niveles
 nivelo
 nivelou
-no
-nó
 Nobel
 nobiliárquica
 nobiliárquicas
@@ -182795,7 +182747,6 @@ novocaína
 novos
 noz
 nozes
-nú
 nua
 nuamente
 nuas
@@ -182996,8 +182947,6 @@ nuvem
 nuvens
 nuvenzinha
 nuvenzinhas
-o
-ô
 oásis
 oba
 obceca
@@ -184849,9 +184798,7 @@ ofusques
 ogiva
 ogivas
 Ogum
-oh
 Ohm
-oi
 ois
 oitão
 oitava
@@ -186747,7 +186694,6 @@ orvalhemos
 orvalhes
 orvalho
 orvalhou
-os
 oscila
 oscilá
 oscilação
@@ -187039,7 +186985,6 @@ otomanas
 otomano
 otomanos
 otorrinolaringologia
-ou
 ouça
 ouçais
 ouçam
@@ -187391,7 +187336,6 @@ oxigênio
 oxítona
 oxítonas
 ozônio
-pá
 pacata
 pacatas
 pacato
@@ -190859,7 +190803,6 @@ paz
 pazes
 pazinha
 pazinhas
-pé
 Peano
 peão
 peca
@@ -196805,7 +196748,6 @@ pneumococo
 pneumococos
 pneumonia
 pneus
-pó
 pobre
 pobres
 pobretão
@@ -207866,7 +207808,6 @@ quotidiano
 quotidianos
 quotização
 quotizações
-rã
 rããs
 rabada
 rabadas
@@ -228161,7 +228102,6 @@ rezemos
 rezes
 rezo
 rezou
-ri
 ria
 riacho
 riachos
@@ -230629,8 +230569,6 @@ rutilemos
 rutiles
 rutilo
 rutilou
-Sá
-sã
 saara
 Saara
 sábado
@@ -233183,9 +233121,6 @@ sazones
 sazono
 sazonou
 SBM
-se
-sé
-sê
 seara
 searas
 sebácea
@@ -235604,7 +235539,6 @@ sexual
 sexualidade
 sexualidades
 sexualmente
-si
 Sião
 sibéria
 Sibéria
@@ -237033,7 +236967,6 @@ situes
 situo
 situou
 slogan
-só
 soa
 soá
 soado
@@ -245580,8 +245513,6 @@ tchecoslovaco
 tchecoslovacos
 tchecoslováquia
 Tchecoslováquia
-te
-tê
 tear
 teares
 teatrais
@@ -247018,7 +246949,6 @@ texturas
 texugo
 texugos
 tez
-ti
 tia
 tiara
 tiaras
@@ -253385,7 +253315,6 @@ truste
 trustes
 truta
 trutas
-tu
 tua
 tuas
 tubarão
@@ -253775,14 +253704,12 @@ tutor
 tutores
 tutoriais
 tutorial
-TV
 uai
 ucrânia
 ucraniana
 ucranianas
 ucraniano
 ucranianos
-ué
 ufana
 ufaná
 ufanado
@@ -253843,8 +253770,6 @@ ufanoso
 ufanosos
 ufanou
 UFRJ
-uh
-ui
 uísque
 uísques
 uiva
@@ -254147,7 +254072,6 @@ ulules
 ululo
 ululou
 Ulysses
-um
 uma
 umas
 umbanda
@@ -255258,8 +255182,6 @@ utopista
 utopistas
 uva
 uvas
-vá
-vã
 vaca
 vacância
 vacâncias
@@ -256716,7 +256638,6 @@ vazio
 vazios
 vazo
 vazou
-vê
 veadinho
 veadinhos
 veado
@@ -258263,7 +258184,6 @@ vexo
 vexou
 vez
 vezes
-vi
 via
 viã
 viabilidade
@@ -260923,7 +260843,6 @@ vulva
 vulvas
 walter
 Waterloo
-xá
 xadrez
 xale
 xales
@@ -261117,7 +261036,6 @@ xeroquemos
 xeroques
 xerox
 xérox
-xi
 xícara
 xícaras
 xiita
@@ -261373,7 +261291,6 @@ zarpemos
 zarpes
 zarpo
 zarpou
-Zé
 zebra
 zebras
 zebu
