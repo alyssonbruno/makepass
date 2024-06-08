@@ -1,0 +1,48 @@
+= AB Non-Free Software License
+
+== Definitions
+It this license we have these definitions:
+
+* this software: my complete solution in a programming language, its parts, its documentation, and anything on this repository where my job is (including, but not limited, my graphics).
+* you: people, user of this software, enterprise, programmer, Governments, NGO, and any arranges of this;
+* single person use: You are a person and use this software in your home, for you or your family;
+* no conditions to pay: In a week, having an emergency, if you must pay US$ 100, then you, or anyone in your family, will stop having something needed at this point.
+
+
+== Your Rights
+This is an Open-Source software, then YOU CAN:
+
+. use, or run, this software on your computer, or in cloud, or another way you want;
+.. use this software as I think it or in any way you can think about;
+ read the source code for this SOFTWARE (probably you are doing it right now);
+.. study, test, run, compile, or make anything your creative made you make;
+. copy this software, deliver for other people, or pack this software as a part of your software;
+. change this software, fix bugs, add features, make a new software over this software.
+
+
+== Your Duties
+THIS SOFTWARE IS A NON-FREE (NON-FREE like no have cost to it), You SHOULD:
+
+. paid me for your use, run or distribution for my software.
+.. if you have a single person use, you don't need to pay anything for me.
+.. if you have no conditions to pay, please don't pay anything for me.
+. pay me a percentage of any profits, winnings, or pickings you have because my software is contributing to this.
+. give me financial rights on any change, pull-request, bug-fix, or anything you wanted included in my version of this software.
+
+For pay use one of these ways:
+
+* Brazilian PIX: 4323a56f-d44d-4979-8c4c-2928d2c91d55
+* Paypal: https://www.paypal.com/donate/?hosted_button_id=E3YQAWEFJVLMG
+* contact me: contact at abnfs dot cc
+
+I suggest a minimun of 1% and a maximum of 5% if you are in item 2 above (over the impact caused by this software, never over all your winnigs), or a maximum of U$ 10 (ten dollars) if in 1. But you are free to pay any value you want. 
+
+
+== YOUR *NO* WARRANTY
+This SOFTWARE is provided "as is", WITHOUT WARRANTY OF ANY KIND, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. in no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with this software or the use or other dealings in the software. (Thanks MIT LICENSE)
+
+Your payment is only by my past time and incentive to I spend more time in this software, if you need a warranty, please contact me or other people you trust for this.
+
+
+== MY THANKS
+I use many Open source softwares, thanks to all working in this, I contribute to these great people whenever I can. See thanks.adoc file to list of all Open Source used in project.

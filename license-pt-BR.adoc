@@ -1,0 +1,48 @@
+= Licenção Não-Gratis AB
+
+== Definições
+Nesta licença tem-se as seguintes definições:
+
+* este software: minha solução completa em uma linguagem de programação, suas partes, sua documentação e qualquer coisa neste repositório que eu tenha trabalhado (incluindo, mas não limitado, minhas ilustrações).
+* você: pessoas, usuário deste software, empresa, programador, governos, ONG, e quaisquer arranjos deste;
+* uso individual: Você é uma pessoa e usa este software em sua casa, para você ou a sua família;
+* sem condições para pagar: numa semana, tendo uma emergência, se tiver que pagar US$ 100 (cem dólares), então você, ou alguém da sua família, deixará de ter algo necessário neste momento.
+
+
+== Seus Direitos
+Este é um software livre (código aberto), então VOCÊ PODE:
+
+. usar ou executar este software em seu computador, ou na nuvem, ou de qualquer outra maneira que desejar;
+.. use este software como eu penso ou de qualquer maneira que possa pensar;
+. ler o código-fonte deste SOFTWARE (provavelmente você está fazendo isso agora);
+.. estude, teste, execute, compile ou faça qualquer coisa que a sua criatividade mandar fazer;
+. copiar este software, distrbiuir para outras pessoas ou usar este software como parte de seu software;
+. alterar este software, corrigir bugs, adicionar recursos, criar um novo software sobre este software.
+
+
+== Seus deveres
+ESTE SOFTWARE NÃO É GRATUITO (NÃO GRATUITO como não tem custo por ele), você DEVE:
+
+. pagar-me pelo seu uso, execução ou distribuição do meu software.
+.. se for um uso individual, não precisa pagar nada para mim.
+.. se não tem condições de pagar (conforme definido nesta licença), por favor, não pague nada.
+. pague-me uma porcentagem de quaisquer lucros, ganhos ou vantagens que você tenha porque o meu software está contribuindo para isso.
+. me dê os seus direitos financeiros sobre qualquer alteração, solicitação de pull, correção de bug ou qualquer coisa que você queira incluir na minha versão deste software.
+
+Para pagamento, use uma destas formas:
+
+* PIX brasileiro: 4323a56f-d44d-4979-8c4c-2928d2c91d55
+* Paypal: https://www.paypal.com/donate/?hosted_button_id=E3YQAWEFJVLMG
+* contato comigo: contato arroba abnfs ponto cc
+
+Sugiro um mínimo de 1% e um máximo de 5% se você se enquadrar no item 2 acima (sobre o impacto causado por este software, nunca sobre todos os seus ganhos), ou no máximo U$ 10 (dez dólares) se estiver em 1, mas você é livre para pagar o valor que quiser.
+
+
+== SUA *NÃO* GARANTIA
+Este SOFTWARE é fornecido "como está", SEM GARANTIA DE QUALQUER TIPO, expressa ou implícita, incluindo, mas não se limitando às garantias de comercialização, adequação a uma finalidade específica e não violação. em nenhum caso os autores ou detentores de direitos autorais serão responsáveis por qualquer reclamação, dano ou outra responsabilidade, seja em uma ação de contrato, ato ilícito ou de outra forma, decorrente, fora ou em conexão com este software, ou o uso ou outras negociações no Programas. (Obrigado MIT LICENSE)
+
+O seu pagamento é apenas pelo meu tempo passado e incentivo para eu passar mais tempo neste software, se você precisar de uma garantia, entre em contato comigo ou com outras pessoas da sua confiança para isso.
+
+
+== OBRIGADO
+Eu uso muitos softwares de código aberto, obrigado a todos que trabalham com isso, contribuo com essas grandes pessoas sempre que posso. Veja o arquivo thanks.adoc para listar todos os softwares livres usados no projeto.
