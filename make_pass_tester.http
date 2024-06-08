@@ -1,0 +1,13 @@
+
+### GET request to example server
+PUT http://localhost:5000/make
+
+###
+
+### GET request to example server
+PUT http://localhost:5000/make
+Content-Type: application/x-www-form-urlencoded
+
+sep = ; &
+count = 2
+###

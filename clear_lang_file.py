@@ -15,7 +15,6 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(description="Clear language file")
-    # parser.add_argument("-f", "--file", type=str, help="File to clear")
     parser.add_argument("file", type=Path, help=f"File to clear, default is {DEFAULT_LANG_FILE}", nargs=1, default=DEFAULT_LANG_FILE)
     parser.add_argument("-m", "--min", type=int, help=f"Minimum word size, default is {WORD_MIN_SIZE}", required=False, default=WORD_MIN_SIZE)
     parser.add_argument("-o", "--output", type=str, help="Output file")
