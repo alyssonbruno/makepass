@@ -1,0 +1,4 @@
+lang	url							license
+pt_br 	https://www.ime.usp.br/~pf/dicios/br-utf8.txt 		GPL/?
+
+
