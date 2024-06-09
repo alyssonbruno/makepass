@@ -1,0 +1,13 @@
+this
+is
+a
+exemple
+for
+a
+self-generate
+file
+to
+randonize
+words
+in
+password
