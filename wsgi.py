@@ -1,14 +1,19 @@
-from flask import Flask, request
+import os
+from flask import Flask, request, render_template
+from flask_cors import CORS
 from asgiref.wsgi import WsgiToAsgi
 import service as s
 
 app = Flask(__name__)
+CORS(app, origins=['http://casa:3131', 'http://localhost:5000', 'http://0.0.0.0:5000', 'http://proxy-reverso:3131'])
 
 @app.route("/", methods=["GET"])
 def index():
-    return "It's working!"
+    api_url = os.getenv('API_URL', 'http://localhost:5000/make')
+    return render_template('index.html', api_url=api_url)
 
-@app.route("/make", methods=["PUT", "GET"])
+
+@app.route("/make", methods=["PUT"])
 def make():
     count = int(request.form['count']) if 'count' in request.form else s.DEFAULT_COUNT
     lang = request.form['lang'] if 'lang' in request.form else s.DEFAULT_LANG

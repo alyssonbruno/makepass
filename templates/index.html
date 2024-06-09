@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Make Password</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Make Password</h1>
+        <form id="makeForm">
+            <div class="form-group">
+                <label for="count">Count</label>
+                <input type="number" class="form-control" id="count" name="count">
+            </div>
+            <div class="form-group">
+                <label for="lang">Language</label>
+                <input type="text" class="form-control" id="lang" name="lang">
+            </div>
+            <div class="form-group">
+                <label for="sep">Separator</label>
+                <input type="text" class="form-control" id="sep" name="sep">
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+        <div class="col align-self-center"><h1 id="resultado" class="display-5"></h1></div>
+    </div>
+
+    <!-- jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+    document.getElementById('makeForm').addEventListener('submit', function(event) {
+    event.preventDefault();
+
+    var count = document.getElementById('count').value.trim();
+    var lang = document.getElementById('lang').value.trim();
+    var sep = document.getElementById('sep').value.trim();
+
+    var xhr = new XMLHttpRequest();
+    xhr.open('PUT', '{{ api_url }}', true);
+    xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+    var to_send = ""
+    if (count !== "") {
+        to_send += 'count=' + count
+    }
+    if (lang !== "") {
+        if (to_send !== "") {
+            to_send += '&'
+        }
+        to_send += 'lang=' + lang
+    }
+    if (sep !== "") {
+        if (to_send !== "") {
+            to_send += '&'
+        }
+        to_send += 'sep=' + sep
+    }
+    xhr.send(to_send);
+
+    xhr.onload = function() {
+        if (xhr.status == 200) {
+            document.getElementById('resultado').textContent = xhr.responseText;
+        } else {
+            document.getElementById('resultado').textContent = `Não foi possível gerar (Erro ${xhr.status})`;
+        }
+    };
+});
+</script>
+
+</body>
+</html>
