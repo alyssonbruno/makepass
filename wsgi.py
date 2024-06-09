@@ -2,10 +2,11 @@ import os
 from flask import Flask, request, render_template
 from flask_cors import CORS
 from asgiref.wsgi import WsgiToAsgi
-from service import make_password, LangNotFound
+from service import make_password, LangNotFound, DEFAULT_LANG, DEFAULT_COUNT
 
 app = Flask(__name__)
 CORS(app, origins=['http://localhost:5000'])
+
 
 @app.route("/", methods=["GET"])
 def index():
@@ -15,8 +16,8 @@ def index():
 
 @app.route("/make", methods=["PUT"])
 def make():
-    count = int(request.form['count']) if 'count' in request.form else s.DEFAULT_COUNT
-    lang = request.form['lang'] if 'lang' in request.form else s.DEFAULT_LANG
+    count = request.form['count'] if 'count' in request.form else DEFAULT_COUNT
+    lang = request.form['lang'] if 'lang' in request.form else DEFAULT_LANG
     sep = request.form['sep'] if 'sep' in request.form else " "
     try:
         return make_password(int(count), lang, sep)
@@ -25,8 +26,10 @@ def make():
     except ValueError:
         return "Invalid count", 400
 
+
 app = WsgiToAsgi(app)
 
 if __name__ == "__main__":
     import uvicorn
+
     uvicorn.run(app, host="0.0.0.0", port=5000)
