@@ -8,7 +8,7 @@ app = Flask(__name__)
 def index():
     return "It's working!"
 
-@app.route("/make", methods=["PUT"])
+@app.route("/make", methods=["PUT", "GET"])
 def make():
     count = int(request.form['count']) if 'count' in request.form else s.DEFAULT_COUNT
     lang = request.form['lang'] if 'lang' in request.form else s.DEFAULT_LANG
