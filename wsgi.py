@@ -2,10 +2,10 @@ import os
 from flask import Flask, request, render_template
 from flask_cors import CORS
 from asgiref.wsgi import WsgiToAsgi
-import service as s
+from service import make_password, LangNotFound
 
 app = Flask(__name__)
-CORS(app, origins=['http://casa:3131', 'http://localhost:5000', 'http://0.0.0.0:5000', 'http://proxy-reverso:3131'])
+CORS(app, origins=['http://localhost:5000'])
 
 @app.route("/", methods=["GET"])
 def index():
@@ -18,7 +18,12 @@ def make():
     count = int(request.form['count']) if 'count' in request.form else s.DEFAULT_COUNT
     lang = request.form['lang'] if 'lang' in request.form else s.DEFAULT_LANG
     sep = request.form['sep'] if 'sep' in request.form else " "
-    return s.make_password(count, lang, sep)
+    try:
+        return make_password(int(count), lang, sep)
+    except LangNotFound:
+        return "Lang not found", 404
+    except ValueError:
+        return "Invalid count", 400
 
 app = WsgiToAsgi(app)
 
